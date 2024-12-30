@@ -12,9 +12,9 @@ As a self-learner, I've embarked on a path to develop and enhance my data skills
 The projects you'll find below showcase my ability to not only analyze data but also to present it in a clear, visually appealing manner, ensuring decision-makers can easily grasp the insights and take meaningful action. They represent my dedication to learning, my passion for data, and my commitment to making a difference through the power of information.
 
 ## Certificates
-* [Excel Skills for Data Analytics and Visualization]([https://www.coursera.org/account/accomplishments/specialization/HFE4M8YWI0XV]) (Aug 2024)(Coursera)
-* [SQL for Data Science]([https://www.coursera.org/account/accomplishments/records/8S6C9EM1TBI2]) (Sep 2024)(Coursera)
-* [Get Started with Python]([https://www.coursera.org/account/accomplishments/verify/PWQAJ3Z9C32X]) (Nov 2024)(Google - Coursera) 
+* [Excel Skills for Data Analytics and Visualization](https://www.coursera.org/account/accomplishments/specialization/HFE4M8YWI0XV) (Aug 2024)(Coursera)
+* [SQL for Data Science](https://www.coursera.org/account/accomplishments/records/8S6C9EM1TBI2) (Sep 2024)(Coursera)
+* [Get Started with Python](https://www.coursera.org/account/accomplishments/verify/PWQAJ3Z9C32X) (Nov 2024)(Google - Coursera) 
 
 ## Projects
 ### Project #1 - Sale Report Dashboard 
