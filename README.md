@@ -14,6 +14,7 @@ The projects you'll find below showcase my ability to not only analyze data but 
 ## Certificates
 * [Excel Skills for Data Analytics and Visualization](https://www.coursera.org/account/accomplishments/specialization/HFE4M8YWI0XV) (Aug 2024)(Coursera)
 * [SQL for Data Science](https://www.coursera.org/account/accomplishments/records/8S6C9EM1TBI2) (Sep 2024)(Coursera)
+* [SQL (Intermediate) Certificate](https://www.hackerrank.com/certificates/7f1022bc1f00) (HackerRank) 
 * [Get Started with Python](https://www.coursera.org/account/accomplishments/verify/PWQAJ3Z9C32X) (Nov 2024)(Google - Coursera) 
 
 ## Projects
