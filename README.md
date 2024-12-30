@@ -18,9 +18,12 @@ The projects you'll find below showcase my ability to not only analyze data but 
 * [Get Started with Python](https://www.coursera.org/account/accomplishments/verify/PWQAJ3Z9C32X) (Nov 2024)(Google - Coursera) 
 
 ## Projects
-### Project #1 - Sale Report Dashboard 
+### Proj#1 - Excel - Sale Report Dashboard 
 **Goal**: Analysis of sales reports of an organization for different products over one year, and it presents through visualization.
 
 
-### Project #2 - E-Commerce Sales Analysis Dashboard (Electronic Products) 
+### Proj#2 - Excel -  E-Commerce Sales Analysis Dashboard (Electronic Products) 
 **Goal**: To analyze the sales performance of electronics products on an ecommerce platform in the period 2011 - 2014. 
+
+### Proj#3 - SQL and PowerBI - AdventureWorks
+In this data cleaning, analysis and visualisation project, I clean the AdventureWorks dataset with SQL, then visualise it as an interactive 3-page dashboard with PowerBI and also export a static version of the dashboard as a PDF. 
