@@ -21,13 +21,23 @@ The projects you'll find below showcase my ability to not only analyze data but 
 ### Proj#1 - Excel - Sale Report Dashboard 
 **Goal**: Analysis of sales reports of an organization for different products over one year, and it presents through visualization.
 
-![Dashboard preview](/Proj%231%20-%20Excel%20-%20Sale%20Report%20Dashboard/Proj%231%20-%20Excel%20-%20Sale%20Report%20Dashboard.png?raw=true)
+<img width="846" alt="Proj#1 - Excel - Sale Report Dashboard" src="https://github.com/user-attachments/assets/d4ff37c8-4bf7-4688-a819-d29b2784b6b8" />
 
 
 ### Proj#2 - Excel -  E-Commerce Sales Analysis Dashboard (Electronic Products) 
 **Goal**: To analyze the sales performance of electronics products on an ecommerce platform in the period 2011 - 2014. 
-![Dashboard preview](/Proj%232%20-%20Excel%20-%20E-Commerce%20Sales%20Analysis%20Dashboard%20(Electronic%20Products)/Proj%232%20-%20Excel%20-%20E-Commerce%20Sales%20Analysis%20Dashboard%20(Electronic%20Products).png?raw=true)
+<img width="612" alt="Proj#2 - Excel - E-Commerce Sales Analysis Dashboard (Electronic Products)" src="https://github.com/user-attachments/assets/96153420-80c3-4752-9361-04784caccbb8" />
+
 
 
 ### Proj#3 - SQL and PowerBI - AdventureWorks
 In this data cleaning, analysis and visualisation project, I clean the AdventureWorks dataset with SQL, then visualise it as an interactive 3-page dashboard with PowerBI and also export a static version of the dashboard as a PDF. 
+
+**Page 1 - AdventureWorks Sales Overview**
+![Proj#3 - SQL and PowerBI - AdventureWorks_page-0001](https://github.com/user-attachments/assets/e881717e-df26-4183-b6e8-4721bd1f2ad4)
+
+**Page 2 - Sales by Customer**
+![Proj#3 - SQL and PowerBI - AdventureWorks_page-0002](https://github.com/user-attachments/assets/140da55c-e6cd-42fd-a3da-eb7da1d92da6)
+
+**Page 3 - Sales by Product**
+![Proj#3 - SQL and PowerBI - AdventureWorks_page-0003](https://github.com/user-attachments/assets/3eccde0a-4fb1-4e9a-a65e-bc2b9d447858)
