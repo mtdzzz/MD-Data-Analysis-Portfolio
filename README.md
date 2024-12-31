@@ -21,9 +21,13 @@ The projects you'll find below showcase my ability to not only analyze data but 
 ### Proj#1 - Excel - Sale Report Dashboard 
 **Goal**: Analysis of sales reports of an organization for different products over one year, and it presents through visualization.
 
+![Dashboard preview](/Proj%231%20-%20Excel%20-%20Sale%20Report%20Dashboard/Proj%231%20-%20Excel%20-%20Sale%20Report%20Dashboard.png?raw=true)
+
 
 ### Proj#2 - Excel -  E-Commerce Sales Analysis Dashboard (Electronic Products) 
 **Goal**: To analyze the sales performance of electronics products on an ecommerce platform in the period 2011 - 2014. 
+![Dashboard preview](/Proj%232%20-%20Excel%20-%20E-Commerce%20Sales%20Analysis%20Dashboard%20(Electronic%20Products)/Proj%232%20-%20Excel%20-%20E-Commerce%20Sales%20Analysis%20Dashboard%20(Electronic%20Products).png?raw=true)
+
 
 ### Proj#3 - SQL and PowerBI - AdventureWorks
 In this data cleaning, analysis and visualisation project, I clean the AdventureWorks dataset with SQL, then visualise it as an interactive 3-page dashboard with PowerBI and also export a static version of the dashboard as a PDF. 
