@@ -18,20 +18,20 @@ The projects you'll find below showcase my ability to not only analyze data but 
 * [Get Started with Python](https://www.coursera.org/account/accomplishments/verify/PWQAJ3Z9C32X) (Nov 2024)(Google - Coursera) 
 
 ## Projects
-### Proj#1 - Excel - Sale Report Dashboard 
+### [Proj#1 - Excel - Sale Report Dashboard](https://github.com/mtdzzz/MD-Data-Analysis-Portfolio/tree/main/Proj%231%20-%20Excel%20-%20Sale%20Report%20Dashboard)
 **Goal**: Analysis of sales reports of an organization for different products over one year, and it presents through visualization.
 
 <img width="846" alt="Proj#1 - Excel - Sale Report Dashboard" src="https://github.com/user-attachments/assets/d4ff37c8-4bf7-4688-a819-d29b2784b6b8" />
 
 
-### Proj#2 - Excel -  E-Commerce Sales Analysis Dashboard (Electronic Products) 
+### [Proj#2 - Excel -  E-Commerce Sales Analysis Dashboard (Electronic Products)](https://github.com/mtdzzz/MD-Data-Analysis-Portfolio/tree/main/Proj%232%20-%20Excel%20-%20E-Commerce%20Sales%20Analysis%20Dashboard%20(Electronic%20Products)) 
 **Goal**: To analyze the sales performance of electronics products on an ecommerce platform in the period 2011 - 2014. 
 
 <img width="612" alt="Proj#2 - Excel - E-Commerce Sales Analysis Dashboard (Electronic Products)" src="https://github.com/user-attachments/assets/96153420-80c3-4752-9361-04784caccbb8" />
 
 
 
-### Proj#3 - SQL and PowerBI - AdventureWorks Sales Analysis
+### [Proj#3 - SQL and PowerBI - AdventureWorks Sales Analysis](https://github.com/mtdzzz/MD-Data-Analysis-Portfolio/tree/main/Proj%233%20-%20SQL%20and%20PowerBI%20-%20AdventureWorks)
 In this data cleaning, analysis and visualisation project, I clean the AdventureWorks dataset with SQL, then visualise it as an interactive 3-page dashboard with PowerBI and also export a static version of the dashboard as a PDF. 
 
 **Page 1 - AdventureWorks Sales Overview**
