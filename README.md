@@ -14,7 +14,7 @@ The projects you'll find below showcase my ability to not only analyze data but 
 ## Certificates
 * [Excel Skills for Data Analytics and Visualization](https://www.coursera.org/account/accomplishments/specialization/HFE4M8YWI0XV) (Aug 2024)(Coursera)
 * [SQL for Data Science](https://www.coursera.org/account/accomplishments/records/8S6C9EM1TBI2) (Sep 2024)(Coursera)
-* [SQL (Intermediate) Certificate](https://www.hackerrank.com/certificates/7f1022bc1f00) (HackerRank) 
+* [SQL (Advanced) Certificate](https://www.hackerrank.com/certificates/ab0baeea5bec) (HackerRank) 
 * [Get Started with Python](https://www.coursera.org/account/accomplishments/verify/PWQAJ3Z9C32X) (Nov 2024)(Google - Coursera) 
 
 ## Projects
@@ -44,7 +44,7 @@ In this data cleaning, analysis and visualisation project, I clean the Adventure
 ![Proj#3 - SQL and PowerBI - AdventureWorks_page-0003](https://github.com/user-attachments/assets/3eccde0a-4fb1-4e9a-a65e-bc2b9d447858)
 
 
-### Proj#4 - SQL and PowerBI - RFM Analysis (https://github.com/mtdzzz/MD-Data-Analysis-Portfolio/tree/main/Proj%234%20-%20SQL%20and%20PowerBI%20-%20RFM%20Analysis)
+[### Proj#4 - SQL and PowerBI - RFM Analysis] (https://github.com/mtdzzz/MD-Data-Analysis-Portfolio/tree/main/Proj%234%20-%20SQL%20and%20PowerBI%20-%20RFM%20Analysis)
 This project implements RFM (Recency, Frequency, Monetary) analysis to segment customers and identify opportunities for targeted marketing campaigns. RFM analysis is a powerful technique used by companies to better understand customer behavior and optimize engagement strategies. It revolves around three key dimensions: **recency**, **frequency**, and **monetary** value, which are essential aspects of customer transactions and provide valuable information for segmentation and personalized marketing campaigns. Visualizations are an integral part of presenting the insights gained from these analyses.
 
 ![RFM_page-0001](https://github.com/user-attachments/assets/5170f0fb-1f32-458e-a2c3-ff30f1e4d06b)
