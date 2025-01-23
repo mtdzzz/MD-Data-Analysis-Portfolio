@@ -26,6 +26,7 @@ The projects you'll find below showcase my ability to not only analyze data but 
 
 ### Proj#2 - Excel -  E-Commerce Sales Analysis Dashboard (Electronic Products) 
 **Goal**: To analyze the sales performance of electronics products on an ecommerce platform in the period 2011 - 2014. 
+
 <img width="612" alt="Proj#2 - Excel - E-Commerce Sales Analysis Dashboard (Electronic Products)" src="https://github.com/user-attachments/assets/96153420-80c3-4752-9361-04784caccbb8" />
 
 
