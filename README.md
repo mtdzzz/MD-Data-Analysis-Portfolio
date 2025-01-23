@@ -44,7 +44,7 @@ In this data cleaning, analysis and visualisation project, I clean the Adventure
 ![Proj#3 - SQL and PowerBI - AdventureWorks_page-0003](https://github.com/user-attachments/assets/3eccde0a-4fb1-4e9a-a65e-bc2b9d447858)
 
 
-[ ### Proj#4 - SQL and PowerBI - RFM Analysis ](https://github.com/mtdzzz/MD-Data-Analysis-Portfolio/tree/main/Proj%234%20-%20SQL%20and%20PowerBI%20-%20RFM%20Analysis)
+### [Proj#4 - SQL and PowerBI - RFM Analysis ](https://github.com/mtdzzz/MD-Data-Analysis-Portfolio/tree/main/Proj%234%20-%20SQL%20and%20PowerBI%20-%20RFM%20Analysis)
 This project implements RFM (Recency, Frequency, Monetary) analysis to segment customers and identify opportunities for targeted marketing campaigns. RFM analysis is a powerful technique used by companies to better understand customer behavior and optimize engagement strategies. It revolves around three key dimensions: **recency**, **frequency**, and **monetary** value, which are essential aspects of customer transactions and provide valuable information for segmentation and personalized marketing campaigns. Visualizations are an integral part of presenting the insights gained from these analyses.
 
 ![RFM_page-0001](https://github.com/user-attachments/assets/5170f0fb-1f32-458e-a2c3-ff30f1e4d06b)
